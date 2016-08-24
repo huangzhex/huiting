@@ -1,0 +1,40 @@
+*{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.l{float:left;}
+.body{margin:0;padding:0;background-color:white;}
+.main{
+	width:100%;
+}
+.left,.right{
+	display:inline-block;
+	position:absolute;
+}
+.left{
+	top:0;
+	left:0;
+	bottom:3px;
+	width:240px;
+	background-color:#F5F5F5;
+	overflow-y:auto;
+}
+.left .title{
+	font-size:20px;
+	margin:10px auto;
+	text-align:center;
+	border-bottom:1px solid #E5E5E5;
+	padding:8px 0;
+}
+.left ul{
+	margin-left:10px;
+}
+.right{
+	top:0;
+	left:240px;
+	right:0;
+	bottom:3px;
+}
+iframe{
+	width:100%;
+	height:100%;
+}

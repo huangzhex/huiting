@@ -1,0 +1,38 @@
+[ 2016-01-24T14:49:52+08:00 ] 220.115.235.2 /WeiXin//index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007777s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
+[ 2016-01-24T14:49:52+08:00 ] 220.115.235.2 /WeiXin//index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
+[ 2016-01-24T14:49:57+08:00 ] 220.115.235.2 /WeiXin//index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018582s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018744s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
+[ 2016-01-24T14:49:57+08:00 ] 220.115.235.2 /WeiXin//index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000674s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+

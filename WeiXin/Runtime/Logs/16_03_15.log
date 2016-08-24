@@ -1,0 +1,1570 @@
+[ 2016-03-15T10:45:34+08:00 ] 221.239.122.21 /WeiXin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
+[ 2016-03-15T10:45:34+08:00 ] 221.239.122.21 /WeiXin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
+[ 2016-03-15T10:46:15+08:00 ] 221.239.122.21 /WeiXin/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
+[ 2016-03-15T10:46:16+08:00 ] 221.239.122.21 /WeiXin/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
+[ 2016-03-15T10:51:46+08:00 ] 221.239.122.21 /WeiXin/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
+[ 2016-03-15T10:51:47+08:00 ] 221.239.122.21 /WeiXin/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
+[ 2016-03-15T10:52:02+08:00 ] 140.207.54.76 /WeiXin/index.php?signature=04e8ef394393ab29d440100f4f3b011ee10b5299&echostr=6636085522303286746&timestamp=1458010322&nonce=1943885366
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-03-15T10:52:54+08:00 ] 101.226.233.156 /WeiXin/index.php?signature=d7d3a8bec78a6d95ae5ddf2fce54f9ab5b22e4f3&timestamp=1458010374&nonce=195834023
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></FromUserName>
+<CreateTime>1458010374</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[天津]]></Content>
+<MsgId>6262106873961472547</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002050s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%天津%' ) LIMIT 1   [ RunTime:0.004555s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458010374]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[天津奇案]]></Title><Description><![CDATA[清朝道光年间，天津城里有一姓张的很有钱，人送外号“张百万”可是他有一件遗憾的事，就是没有儿子。他有两个女儿，两个女儿的性格完全不同。两个女儿到了出嫁的年龄，各方媒婆都跑去说媒，张百万也要求门当户对。]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.cn/WeiXin/index.php/ShowItem?id=2843]]></Url></item></Articles></xml>
+
+[ 2016-03-15T10:56:51+08:00 ] 101.226.233.141 /WeiXin/index.php?signature=75c91948b8283eb44a53c8e6528246b9c58bc9f9&timestamp=1458010611&nonce=839692806
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></FromUserName>
+<CreateTime>1458010610</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[十四]]></Content>
+<MsgId>6262107887573754449</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002049s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%十四%' ) LIMIT 1   [ RunTime:0.003473s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458010611]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[十四堂人生创意课]]></Title><Description><![CDATA[]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/ShowItem?id=2271]]></Url></item></Articles></xml>
+
+[ 2016-03-15T10:56:53+08:00 ] 221.239.122.21 /WeiXin/index.php/ShowItem?id=2271
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000628s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001658s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 2271 ) LIMIT 1   [ RunTime:0.000879s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019432s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019521s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000374s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000383s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000342s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001651s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000509s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-03-15T10:57:02+08:00 ] 101.226.233.156 /WeiXin/index.php?signature=0bc4982b3c9143e1a383ffb61f827f20f8a27ee0&timestamp=1458010622&nonce=917525654
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></FromUserName>
+<CreateTime>1458010622</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[郭德纲]]></Content>
+<MsgId>6262107939113362002</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001569s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%郭德纲%' ) LIMIT 1   [ RunTime:0.010845s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458010622]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[郭德纲 于谦(三)]]></Title><Description><![CDATA[白事会.mp3]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/ShowItem?id=8954]]></Url></item></Articles></xml>
+
+[ 2016-03-15T10:57:06+08:00 ] 221.239.122.21 /WeiXin/index.php/ShowItem?id=8954
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000662s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001814s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 8954 ) LIMIT 1   [ RunTime:0.000995s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006550s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000362s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000351s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000268s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001528s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000537s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-03-15T10:57:20+08:00 ] 101.226.233.151 /WeiXin/index.php?signature=d0a97294120404fde946dc9165ed9ea6bc6544d9&timestamp=1458010639&nonce=1523192920
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></FromUserName>
+<CreateTime>1458010639</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[三国]]></Content>
+<MsgId>6262108012127806042</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001951s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%三国%' ) LIMIT 1   [ RunTime:0.004514s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458010640]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[三国演义（38集FLASH动画故事）]]></Title><Description><![CDATA[]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/ShowItem?id=1997]]></Url></item></Articles></xml>
+
+[ 2016-03-15T10:57:21+08:00 ] 221.239.122.21 /WeiXin/index.php/ShowItem?id=1997
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000652s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001771s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 1997 ) LIMIT 1   [ RunTime:0.000895s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007670s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007741s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000358s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000354s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000265s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001513s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000507s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-03-15T10:57:26+08:00 ] 221.239.122.21 /WeiXin/index.php/ShowItem?id=1997
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000644s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001620s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 1997 ) LIMIT 1   [ RunTime:0.002954s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006240s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000351s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000349s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000276s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001512s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000502s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-03-15T10:57:38+08:00 ] 101.226.233.146 /WeiXin/index.php?signature=b987066ba8df241d19cc1d7fcaf434d77592fdd1&timestamp=1458010658&nonce=1444049778
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></FromUserName>
+<CreateTime>1458010658</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[吃的]]></Content>
+<MsgId>6262108093732184669</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002090s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%吃的%' ) LIMIT 1   [ RunTime:0.004459s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458010658]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[一大堆好好吃的电脑壁纸（友情提示：内有美食，嘴馋慎入）+超级宏景+可爱动物]]></Title><Description><![CDATA[客官久等，美食来啦～^~^.哈哈.本人在闲暇时候喜欢病态地切换电脑壁纸,从动漫美型到游戏CG,从广阔风景到]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/ShowItem?id=2083]]></Url></item></Articles></xml>
+
+[ 2016-03-15T10:57:40+08:00 ] 221.239.122.21 /WeiXin/index.php/ShowItem?id=2083
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000896s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001045s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001914s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 2083 ) LIMIT 1   [ RunTime:0.001050s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006448s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006515s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000366s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000355s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000316s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001588s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000493s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2016-03-15T10:57:48+08:00 ] 101.226.233.156 /WeiXin/index.php?signature=aab163d441f291eb9632bf1e96f48375d3aa105d&timestamp=1458010668&nonce=590917808
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></FromUserName>
+<CreateTime>1458010668</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[admin]]></Content>
+<MsgId>6262108136681857638</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002063s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%admin%' ) LIMIT 1   [ RunTime:0.016639s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458010668]]></CreateTime></xml>
+
+[ 2016-03-15T10:58:34+08:00 ] 101.226.233.151 /WeiXin/index.php?signature=c6d4bbeb632ed8b4418efd35e4c87ab6f64c9904&timestamp=1458010714&nonce=542415745
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></FromUserName>
+<CreateTime>1458010714</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[首页]]></Content>
+<MsgId>6262108334250353257</MsgId>
+</xml>
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458010714]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[慧听网]]></Title><Description><![CDATA[本站主要提供有声小说下载，为全国的盲童和视力障碍者及小说爱好者做一点儿公益奉献，如本站资源涉及版权问题,请告知！]]></Description><PicUrl><![CDATA[http://www.huitingweb.top/WeiXin/Public/images/0.jpg]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/User/]]></Url></item></Articles></xml>
+
+[ 2016-03-15T10:58:36+08:00 ] 221.239.122.21 /WeiXin/index.php/User/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000632s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001544s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY createtime desc LIMIT 20   [ RunTime:0.013809s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY order_index desc LIMIT 20   [ RunTime:0.014968s ]
+SQL: SHOW COLUMNS FROM `hting_menu` [ RunTime:0.001276s ]
+SQL: SELECT `id`,`name` FROM `hting_menu` WHERE ( `float` = 'info2' ) ORDER BY order_index  [ RunTime:0.000921s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009686s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000430s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000363s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000291s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001644s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000590s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-03-15T10:59:04+08:00 ] 221.239.122.21 /WeiXin/index.php/User/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000651s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001704s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY createtime desc LIMIT 20   [ RunTime:0.001019s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY order_index desc LIMIT 20   [ RunTime:0.000859s ]
+SQL: SHOW COLUMNS FROM `hting_menu` [ RunTime:0.001324s ]
+SQL: SELECT `id`,`name` FROM `hting_menu` WHERE ( `float` = 'info2' ) ORDER BY order_index  [ RunTime:0.000908s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009452s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009530s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000394s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000425s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000264s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001648s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000466s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-03-15T11:00:02+08:00 ] 101.226.233.141 /WeiXin/index.php?signature=fce396965e4eac2eb444705671b56b9e909ad8dd&timestamp=1458010801&nonce=1142519060
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></FromUserName>
+<CreateTime>1458010801</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[管理]]></Content>
+<MsgId>6262108707912508015</MsgId>
+</xml>
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458010802]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[网站管理]]></Title><Description><![CDATA[管理员登录页面!]]></Description><PicUrl><![CDATA[http://www.huitingweb.top/WeiXin/Public/images/login.jpg]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/Admin/]]></Url></item></Articles></xml>
+
+[ 2016-03-15T11:00:04+08:00 ] 221.239.122.21 /WeiXin/index.php/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000687s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: msg /data/home/qxu1147150176/htdocs/WeiXin/Runtime/Cache/848f4ea4b484aba8c291b28d2c23095d.php 第 59 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023253s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000345s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000348s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000270s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000396s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001513s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/AdminAction.class.php:1) /data/home/qxu1147150176/htdocs/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/AdminAction.class.php:1) /data/home/qxu1147150176/htdocs/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/AdminAction.class.php:1) /data/home/qxu1147150176/htdocs/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000491s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-03-15T11:00:24+08:00 ] 221.239.122.21 /WeiXin/index.php/Admin/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000632s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+SQL: SHOW COLUMNS FROM `hting_user` [ RunTime:0.001927s ]
+SQL: SELECT * FROM `hting_user` WHERE ( uname='huangzhe' and pwd='2242891xx' ) LIMIT 1   [ RunTime:0.001142s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005834s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000430s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000342s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000343s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001714s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/AdminAction.class.php:1) /data/home/qxu1147150176/htdocs/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/AdminAction.class.php:1) /data/home/qxu1147150176/htdocs/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/AdminAction.class.php:1) /data/home/qxu1147150176/htdocs/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000538s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-03-15T11:00:46+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000643s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002016s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%师%' ) LIMIT 1   [ RunTime:0.002875s ]
+
+[ 2016-03-15T11:03:06+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=0162a95f74e0648319da3511bae000efffe803a5&timestamp=1458010986&nonce=105715604
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458010986</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6262109502481457794</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002055s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%1%' ) LIMIT 1   [ RunTime:0.002907s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458010986]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[调频酸菜馆1]]></Title><Description><![CDATA[节目主创人员年轻时尚，活力四射，知道青少年人群的需求和爱好，节目既不曲高和寡，又不盲目媚俗，风趣、幽默、健康、向上，直达青少年的精神世界。中外笑话巧妙编排，精心串联，让听众耳目一新，笑声不断。]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/ShowItem?id=950]]></Url></item></Articles></xml>
+
+[ 2016-03-15T11:03:32+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=8f7df6747e9f9517548eef574085474676f32a55&timestamp=1458011012&nonce=1772081273
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011012</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2]]></Content>
+<MsgId>6262109614150607496</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001884s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%2%' ) LIMIT 1   [ RunTime:0.001999s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458011012]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[调频酸菜馆2]]></Title><Description><![CDATA[在茫茫的大漠中有一间小小的客栈，但凡行走江湖之人途经此处，必会进得店中，休整精力、恢复体能。经典故事全新演绎，音响效果生动逼真，情节跌宕高潮不断，让听众乐不可支，欲罢不能。节目内容不曲高和寡，也不盲目媚俗，风趣、幽默、健康、向上，直达青少年的精神世界。]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/ShowItem?id=951]]></Url></item></Articles></xml>
+
+[ 2016-03-15T11:03:45+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=03171805903073c91ebde7335e009f2539b3f2bb&timestamp=1458011025&nonce=497749432
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011025</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[喆哥]]></Content>
+<MsgId>6262109669985182356</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001879s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%喆哥%' ) LIMIT 1   [ RunTime:0.011442s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011025]]></CreateTime></xml>
+
+[ 2016-03-15T11:04:01+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=1d9a7f783d329a17fb0d8996e7341d7b5c2d8941&timestamp=1458011041&nonce=1996910648
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011041</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[水菜丽]]></Content>
+<MsgId>6262109738704659095</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001853s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%水菜丽%' ) LIMIT 1   [ RunTime:0.015248s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011041]]></CreateTime></xml>
+
+[ 2016-03-15T11:04:15+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=93a581fe452b3ef85e2b6bb7a71a1f6fb3d9f3c0&timestamp=1458011055&nonce=2049705721
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011055</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1024]]></Content>
+<MsgId>6262109798834201243</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002057s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%1024%' ) LIMIT 1   [ RunTime:0.002388s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458011055]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[阿伟老师原创AECS4高清视频教程 不断更新    (After Effects CS4)1024*768高清像素]]></Title><Description><![CDATA[《阿伟老师原创AECS4高清视频教程》 不断更新本资源持续更新！喜欢的朋友请收藏以备方便！如果没有资源请耐心等待！因为做种电脑也需要休息！希望大家发扬VC精神，不要用迅雷等软件下载！谢谢！ 初次发帖，很多地方还不是很熟练，也请大家原谅！！]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/ShowItem?id=1523]]></Url></item></Articles></xml>
+
+[ 2016-03-15T11:04:28+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=1902bda48065ddfd19d2ebbf37ac80809f88ba3c&timestamp=1458011068&nonce=488078955
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011068</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[首页]]></Content>
+<MsgId>6262109854668776096</MsgId>
+</xml>
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458011068]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[慧听网]]></Title><Description><![CDATA[本站主要提供有声小说下载，为全国的盲童和视力障碍者及小说爱好者做一点儿公益奉献，如本站资源涉及版权问题,请告知！]]></Description><PicUrl><![CDATA[http://www.huitingweb.top/WeiXin/Public/images/0.jpg]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/User/]]></Url></item></Articles></xml>
+
+[ 2016-03-15T11:04:31+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=36d059da336eb51fb565a60339dab5b191d2bbc2&timestamp=1458011071&nonce=324538322
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011071</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[守夜]]></Content>
+<MsgId>6262109867553677986</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001848s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%守夜%' ) LIMIT 1   [ RunTime:0.010381s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458011071]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[守夜人讲故事电台]]></Title><Description><![CDATA[每天，有许多人与你擦肩而过。每刻，有许多故事在无意间发生。守夜人把发生在别人身上你不知道的故事讲给大家听。]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/ShowItem?id=11025]]></Url></item></Articles></xml>
+
+[ 2016-03-15T11:04:43+08:00 ] 221.239.122.21 /WeiXin/index.php/ShowItem?id=11025
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000667s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002014s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 11025 ) LIMIT 1   [ RunTime:0.001131s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006500s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000374s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000352s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001546s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000496s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-03-15T11:05:02+08:00 ] 101.226.62.81 /WeiXin/index.php?signature=f837ebdd5ab57fca9a7f2a08d1927153ba6423aa&timestamp=1458011102&nonce=1168965329
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011102</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[波多野结衣]]></Content>
+<MsgId>6262110000697664192</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001766s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%波多野结衣%' ) LIMIT 1   [ RunTime:0.017038s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011102]]></CreateTime></xml>
+
+[ 2016-03-15T11:05:03+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=75fda3dfe1773d2fbf1e2b9f37b5c63cd46986b0&timestamp=1458011103&nonce=2016370160
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9PsyRNv0xEYBEC-_gnoaPTyK0]]></FromUserName>
+<CreateTime>1458011103</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[首页]]></Content>
+<MsgId>6262110004992631490</MsgId>
+</xml>
+DEBUG: <xml><ToUserName><![CDATA[omK9PsyRNv0xEYBEC-_gnoaPTyK0]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458011103]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[慧听网]]></Title><Description><![CDATA[本站主要提供有声小说下载，为全国的盲童和视力障碍者及小说爱好者做一点儿公益奉献，如本站资源涉及版权问题,请告知！]]></Description><PicUrl><![CDATA[http://www.huitingweb.top/WeiXin/Public/images/0.jpg]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/User/]]></Url></item></Articles></xml>
+
+[ 2016-03-15T11:05:09+08:00 ] 117.10.154.225 /WeiXin/index.php/User/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000639s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001725s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY createtime desc LIMIT 20   [ RunTime:0.012318s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY order_index desc LIMIT 20   [ RunTime:0.016155s ]
+SQL: SHOW COLUMNS FROM `hting_menu` [ RunTime:0.001931s ]
+SQL: SELECT `id`,`name` FROM `hting_menu` WHERE ( `float` = 'info2' ) ORDER BY order_index  [ RunTime:0.000672s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009337s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000398s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000379s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000279s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001609s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000487s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2016-03-15T11:05:29+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=7f62a9869c1ecdb09a30062f58668d1e93f8788b&timestamp=1458011129&nonce=1802542257
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011129</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[return]]></Content>
+<MsgId>6262110116661781194</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002092s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%return%' ) LIMIT 1   [ RunTime:0.013277s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011129]]></CreateTime></xml>
+
+[ 2016-03-15T11:05:36+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=2b549e313e39d311c55c6b21982d8fe8aaa0ad22&timestamp=1458011136&nonce=1568726936
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011136</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[delete]]></Content>
+<MsgId>6262110146726552268</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001847s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%delete%' ) LIMIT 1   [ RunTime:0.011861s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011136]]></CreateTime></xml>
+
+[ 2016-03-15T11:05:49+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=9acd397763c779e2b6b3d8a592803471cd3eae29&timestamp=1458011148&nonce=1593886917
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011148</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[kuck]]></Content>
+<MsgId>6262110198266159822</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001937s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%kuck%' ) LIMIT 1   [ RunTime:0.023582s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011149]]></CreateTime></xml>
+
+[ 2016-03-15T11:05:54+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=66b3ffcc5551584d5da4c99a04b56c0e43ae5593&timestamp=1458011154&nonce=1737117417
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011153</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fuck]]></Content>
+<MsgId>6262110219740996305</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001957s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%fuck%' ) LIMIT 1   [ RunTime:0.014414s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011154]]></CreateTime></xml>
+
+[ 2016-03-15T11:07:04+08:00 ] 101.226.62.80 /WeiXin/index.php?signature=38d71ae733214ef2350ee903b69a8d094f2d586b&timestamp=1458011223&nonce=2028209409
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps5MpcwVuulRBcecLQXYrTGM]]></FromUserName>
+<CreateTime>1458011223</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: MsgId /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 116 行.
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps5MpcwVuulRBcecLQXYrTGM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458011224]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[慧听网]]></Title><Description><![CDATA[本站主要提供有声小说下载，为全国的盲童和视力障碍者及小说爱好者做一点儿公益奉献，如本站资源涉及版权问题,请告知！]]></Description><PicUrl><![CDATA[http://www.huitingweb.top/WeiXin/Public/images/0.jpg]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/User/]]></Url></item></Articles></xml>
+
+[ 2016-03-15T11:07:11+08:00 ] 221.239.122.21 /WeiXin/index.php/User/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000672s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001811s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY createtime desc LIMIT 20   [ RunTime:0.014992s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY order_index desc LIMIT 20   [ RunTime:0.012908s ]
+SQL: SHOW COLUMNS FROM `hting_menu` [ RunTime:0.003812s ]
+SQL: SELECT `id`,`name` FROM `hting_menu` WHERE ( `float` = 'info2' ) ORDER BY order_index  [ RunTime:0.000756s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009885s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000419s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000359s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001619s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000524s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-03-15T11:07:53+08:00 ] 221.239.122.21 /WeiXin/index.php/User/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000659s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001891s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY createtime desc LIMIT 20   [ RunTime:0.000906s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY order_index desc LIMIT 20   [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `hting_menu` [ RunTime:0.001615s ]
+SQL: SELECT `id`,`name` FROM `hting_menu` WHERE ( `float` = 'info2' ) ORDER BY order_index  [ RunTime:0.000828s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009985s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000405s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000376s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000278s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000387s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001605s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000491s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-03-15T11:08:51+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=1519270262be629b68a2eb4061d30c3013d21104&timestamp=1458011331&nonce=967660258
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9PsyRNv0xEYBEC-_gnoaPTyK0]]></FromUserName>
+<CreateTime>1458011331</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[福利]]></Content>
+<MsgId>6262110984245175029</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001946s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%福利%' ) LIMIT 1   [ RunTime:0.014778s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9PsyRNv0xEYBEC-_gnoaPTyK0]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011331]]></CreateTime></xml>
+
+[ 2016-03-15T11:09:22+08:00 ] 221.239.122.21 /WeiXin/index.php/User/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000665s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002082s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY createtime desc LIMIT 20   [ RunTime:0.002172s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY order_index desc LIMIT 20   [ RunTime:0.000996s ]
+SQL: SHOW COLUMNS FROM `hting_menu` [ RunTime:0.001728s ]
+SQL: SELECT `id`,`name` FROM `hting_menu` WHERE ( `float` = 'info2' ) ORDER BY order_index  [ RunTime:0.000766s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009509s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000389s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000382s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000271s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000387s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001591s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000625s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-03-15T11:09:24+08:00 ] 221.239.122.21 /WeiXin/index.php/User/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000637s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001711s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY createtime desc LIMIT 20   [ RunTime:0.000867s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY order_index desc LIMIT 20   [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `hting_menu` [ RunTime:0.001669s ]
+SQL: SELECT `id`,`name` FROM `hting_menu` WHERE ( `float` = 'info2' ) ORDER BY order_index  [ RunTime:0.000779s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011756s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011887s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000612s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000538s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000335s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002180s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000506s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-03-15T11:09:34+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=7bc61c5e4cfc6766e2a915d5f2122f50526c302e&timestamp=1458011374&nonce=678781596
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011374</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[内裤超人]]></Content>
+<MsgId>6262111168928768763</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001703s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%内裤超人%' ) LIMIT 1   [ RunTime:0.012645s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011374]]></CreateTime></xml>
+
+[ 2016-03-15T11:09:40+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=a2ff26ca89cc9b84b832de6fcfa2e8299e631b57&timestamp=1458011380&nonce=910498315
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011380</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[变态假面]]></Content>
+<MsgId>6262111194698572544</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001732s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%变态假面%' ) LIMIT 1   [ RunTime:0.014869s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011380]]></CreateTime></xml>
+
+[ 2016-03-15T11:09:53+08:00 ] 101.226.62.80 /WeiXin/index.php?signature=d547fc021c9189ac5df369c14019a960f7b8941c&timestamp=1458011393&nonce=1419921681
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011393</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[这也没嘛好东西啊]]></Content>
+<MsgId>6262111250533147394</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001744s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%这也没嘛好东西啊%' ) LIMIT 1   [ RunTime:0.011782s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011393]]></CreateTime></xml>
+
+[ 2016-03-15T11:10:39+08:00 ] 101.226.62.78 /WeiXin/index.php?signature=5df82f696974261967943b3117e378c5df57d3b3&timestamp=1458011439&nonce=1608010317
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></FromUserName>
+<CreateTime>1458011439</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA["delete from "]]></Content>
+<MsgId>6262111448101643018</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001671s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%"delete from "%' ) LIMIT 1   [ RunTime:0.013887s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps03O4MA94a4MRuw3JsaafEM]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1458011439]]></CreateTime></xml>
+
+[ 2016-03-15T11:13:41+08:00 ] 221.239.122.21 /WeiXin/index.php/User/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000630s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001785s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY createtime desc LIMIT 20   [ RunTime:0.000817s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY order_index desc LIMIT 20   [ RunTime:0.000783s ]
+SQL: SHOW COLUMNS FROM `hting_menu` [ RunTime:0.001492s ]
+SQL: SELECT `id`,`name` FROM `hting_menu` WHERE ( `float` = 'info2' ) ORDER BY order_index  [ RunTime:0.000828s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010347s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000413s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000370s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001625s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000490s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-03-15T11:14:17+08:00 ] 221.239.122.21 /WeiXin/index.php/User/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000696s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000821s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001654s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY createtime desc LIMIT 20   [ RunTime:0.000806s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY order_index desc LIMIT 20   [ RunTime:0.000808s ]
+SQL: SHOW COLUMNS FROM `hting_menu` [ RunTime:0.001209s ]
+SQL: SELECT `id`,`name` FROM `hting_menu` WHERE ( `float` = 'info2' ) ORDER BY order_index  [ RunTime:0.000739s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009469s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000404s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000356s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001593s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000517s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2016-03-15T11:18:54+08:00 ] 101.226.233.146 /WeiXin/index.php?signature=bde48fee0dc82567ae5c9134860189b4c083b31a&timestamp=1458011934&nonce=1428604191
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps96n4TpJzcjs7mjFZKuro28]]></FromUserName>
+<CreateTime>1458011934</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>402744204</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>7</TotalCount>
+<FilterCount>7</FilterCount>
+<SentCount>7</SentCount>
+<ErrorCount>0</ErrorCount>
+</xml>
+NOTIC: [8] Undefined index: MsgId /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 116 行.
+
+[ 2016-03-15T11:20:19+08:00 ] 221.239.122.21 /WeiXin/index.php/User/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000626s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002045s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY createtime desc LIMIT 20   [ RunTime:0.000751s ]
+SQL: SELECT left(title,25) AS `title`,`author`,`reader`,`createtime` FROM `hting_item` ORDER BY order_index desc LIMIT 20   [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `hting_menu` [ RunTime:0.001738s ]
+SQL: SELECT `id`,`name` FROM `hting_menu` WHERE ( `float` = 'info2' ) ORDER BY order_index  [ RunTime:0.000748s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009194s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000378s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000341s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000285s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001537s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000509s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-03-15T11:25:45+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000615s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001590s ]
+SQL: SELECT * FROM `hting_yun_path`  [ RunTime:0.000870s ]
+
+[ 2016-03-15T11:26:37+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000713s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001884s ]
+SQL: SELECT * FROM `hting_yun_path`  [ RunTime:0.001133s ]
+
+[ 2016-03-15T11:27:39+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000682s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001747s ]
+SQL: SELECT * FROM `hting_yun_path`  [ RunTime:0.000892s ]
+
+[ 2016-03-15T11:39:37+08:00 ] 101.226.103.59 /WeiXin/index.php?signature=9a53da42802cff493f7c6667e34cea0d7d5bd8bc&timestamp=1458013177&nonce=1482042270
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps7G3ry8A3YmVl5olAVx92gQ]]></FromUserName>
+<CreateTime>1458013177</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: MsgId /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 116 行.
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps7G3ry8A3YmVl5olAVx92gQ]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1458013177]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[慧听网]]></Title><Description><![CDATA[本站主要提供有声小说下载，为全国的盲童和视力障碍者及小说爱好者做一点儿公益奉献，如本站资源涉及版权问题,请告知！]]></Description><PicUrl><![CDATA[http://www.huitingweb.top/WeiXin/Public/images/0.jpg]]></PicUrl><Url><![CDATA[http://www.huitingweb.top/WeiXin/index.php/User/]]></Url></item></Articles></xml>
+
+[ 2016-03-15T11:40:00+08:00 ] 101.226.103.59 /WeiXin/index.php?signature=9ea3a45b6e94239cf02446fc6188a5a8f3ed8a1b&timestamp=1458013200&nonce=42356888
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps7G3ry8A3YmVl5olAVx92gQ]]></FromUserName>
+<CreateTime>1458013200</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/jRKdw5I3m4ylLkVSu4X3Zdw9lqDhz9eaFTjWrh3vM2Ipwl8rCeqjvplAwqhCzZmVBxFxlf1eAJ7lDAfaurGpqw/0]]></PicUrl>
+<MsgId>6262119011539051756</MsgId>
+<MediaId><![CDATA[RBk8mlkH95kr1oDZKSDJCJDa2RkiR6gMW-46ni83lGp0HLk1H8IVbdMjowYyBpGP]]></MediaId>
+</xml>
+NOTIC: [2] Missing argument 2 for IndexAction::text(), called in /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php on line 127 and defined /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 165 行.
+DEBUG: 请输入帮助/help!
+NOTIC: [8] Undefined variable: _receive /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 167 行.
+NOTIC: [8] Undefined variable: _receive /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 168 行.
+DEBUG: <xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[请输入帮助/help!]]></Content><CreateTime><![CDATA[1458013200]]></CreateTime></xml>
+
+[ 2016-03-15T11:40:37+08:00 ] 101.226.103.59 /WeiXin/index.php?signature=de1ca336cfa348f1ae8596d334144db317f59a2d&timestamp=1458013237&nonce=1100186647
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps7G3ry8A3YmVl5olAVx92gQ]]></FromUserName>
+<CreateTime>1458013236</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/jRKdw5I3m4ylLkVSu4X3Zdw9lqDhz9ea3sEDmrib9Khxe7gMOuLTkaUickbpCtic9RkibeTouMHhkibYUHjuWmVuQKw/0]]></PicUrl>
+<MsgId>6262119166157874418</MsgId>
+<MediaId><![CDATA[hoAvZO75rfYCqs7vM-yAgPXJcJmiUZSKu_EbB8cgb-Ka58xyqXh795wG85rjQ1K1]]></MediaId>
+</xml>
+NOTIC: [2] Missing argument 2 for IndexAction::text(), called in /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php on line 127 and defined /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 165 行.
+DEBUG: 请输入帮助/help!
+NOTIC: [8] Undefined variable: _receive /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 167 行.
+NOTIC: [8] Undefined variable: _receive /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 168 行.
+DEBUG: <xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[请输入帮助/help!]]></Content><CreateTime><![CDATA[1458013237]]></CreateTime></xml>
+
+[ 2016-03-15T12:58:16+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000656s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+ERR: 非法操作:index.php
+
+[ 2016-03-15T12:58:21+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000642s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001612s ]
+SQL: SELECT * FROM `hting_yun_path`  [ RunTime:0.000855s ]
+
+[ 2016-03-15T12:58:41+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000632s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001389s ]
+SQL: SELECT * FROM `hting_yun_path`  [ RunTime:0.000665s ]
+
+[ 2016-03-15T13:02:51+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000634s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001723s ]
+SQL: SELECT * FROM `hting_yun_path`  [ RunTime:0.000608s ]
+
+[ 2016-03-15T13:04:40+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000627s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001450s ]
+SQL: SELECT * FROM `hting_yun_path`  [ RunTime:0.000798s ]
+
+[ 2016-03-15T13:13:51+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000651s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.004309s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` FROM `hting_yun_path`  [ RunTime:0.001011s ]
+
+[ 2016-03-15T13:13:54+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000623s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001430s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` FROM `hting_yun_path`  [ RunTime:0.000942s ]
+
+[ 2016-03-15T13:15:11+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000639s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001479s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` FROM `hting_yun_path`  [ RunTime:0.000739s ]
+
+[ 2016-03-15T13:15:28+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000628s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001294s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` FROM `hting_yun_path`  [ RunTime:0.000701s ]
+
+[ 2016-03-15T13:16:14+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000662s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001544s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` FROM `hting_yun_path`  [ RunTime:0.001667s ]
+
+[ 2016-03-15T13:20:36+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000637s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001517s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId` FROM `hting_yun_path`  [ RunTime:0.000852s ]
+
+[ 2016-03-15T13:31:12+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000645s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001584s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000969s ]
+
+[ 2016-03-15T13:31:19+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000636s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001407s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000836s ]
+
+[ 2016-03-15T13:32:15+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000646s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001456s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000775s ]
+
+[ 2016-03-15T13:32:19+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000644s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001653s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000870s ]
+
+[ 2016-03-15T13:32:32+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000685s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001583s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000947s ]
+
+[ 2016-03-15T13:33:36+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000642s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001707s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.001062s ]
+
+[ 2016-03-15T13:33:38+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000706s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001558s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.001134s ]
+
+[ 2016-03-15T13:33:40+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000701s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001528s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000752s ]
+
+[ 2016-03-15T13:33:40+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000673s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001399s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000854s ]
+
+[ 2016-03-15T13:33:41+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000655s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001607s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000864s ]
+
+[ 2016-03-15T13:34:03+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000677s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001484s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.001052s ]
+
+[ 2016-03-15T13:34:05+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000645s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.002073s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000696s ]
+
+[ 2016-03-15T13:34:50+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000760s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000901s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001686s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000797s ]
+
+[ 2016-03-15T13:35:42+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000711s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001578s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.001033s ]
+
+[ 2016-03-15T13:35:47+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000641s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001512s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000719s ]
+
+[ 2016-03-15T13:36:00+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000636s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001513s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open` FROM `hting_yun_path`  [ RunTime:0.000694s ]
+
+[ 2016-03-15T13:39:28+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000698s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001711s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.005234s ]
+
+[ 2016-03-15T13:39:32+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000681s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001565s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000700s ]
+
+[ 2016-03-15T13:39:49+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000697s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001603s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000928s ]
+
+[ 2016-03-15T13:41:07+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000632s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001586s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000873s ]
+
+[ 2016-03-15T13:41:46+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000647s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001578s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000930s ]
+
+[ 2016-03-15T13:41:48+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000624s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001584s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000702s ]
+
+[ 2016-03-15T13:49:29+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000679s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.090111s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000849s ]
+
+[ 2016-03-15T13:49:50+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000636s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001632s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000971s ]
+
+[ 2016-03-15T13:50:06+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000646s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001467s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000958s ]
+
+[ 2016-03-15T13:50:43+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000686s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001405s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000716s ]
+
+[ 2016-03-15T13:54:29+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000636s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001703s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000773s ]
+
+[ 2016-03-15T13:56:27+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000621s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001482s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000918s ]
+
+[ 2016-03-15T13:57:14+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000672s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001528s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000706s ]
+
+[ 2016-03-15T13:57:37+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000650s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001709s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000834s ]
+
+[ 2016-03-15T13:59:06+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000624s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001632s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000843s ]
+
+[ 2016-03-15T14:01:42+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000618s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001621s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000783s ]
+
+[ 2016-03-15T14:02:18+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000673s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001785s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000755s ]
+
+[ 2016-03-15T14:02:51+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000658s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001601s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000870s ]
+
+[ 2016-03-15T14:12:52+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000628s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001359s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000845s ]
+
+[ 2016-03-15T14:14:55+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000629s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001373s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000606s ]
+
+[ 2016-03-15T14:27:19+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000725s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001629s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.001032s ]
+
+[ 2016-03-15T14:27:41+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000657s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001748s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000865s ]
+
+[ 2016-03-15T14:30:18+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000640s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001738s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000993s ]
+
+[ 2016-03-15T14:35:55+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000646s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001588s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.001311s ]
+
+[ 2016-03-15T15:28:31+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000655s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001318s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000759s ]
+
+[ 2016-03-15T16:12:54+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000651s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001395s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000881s ]
+
+[ 2016-03-15T16:14:30+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000641s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001736s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000835s ]
+
+[ 2016-03-15T16:35:41+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000646s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.026996s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.001610s ]
+
+[ 2016-03-15T16:48:56+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000616s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001731s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000803s ]
+
+[ 2016-03-15T16:49:30+08:00 ] 221.239.122.21 /WeiXin/index.php/DB
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000717s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000836s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+SQL: SHOW COLUMNS FROM `hting_yun_path` [ RunTime:0.001415s ]
+SQL: SELECT `id`,`file_name` AS `name`,`pid` AS `pId`,`open`,`url`,`target` FROM `hting_yun_path`  [ RunTime:0.000673s ]
+

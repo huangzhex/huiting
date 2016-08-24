@@ -1,0 +1,80 @@
+[ 2015-09-15T15:04:57+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000664s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001729s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%渡灵师%' ) LIMIT 1   [ RunTime:0.000801s ]
+
+[ 2015-09-15T15:10:31+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000599s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.002326s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%师%' ) LIMIT 1   [ RunTime:0.002847s ]
+
+[ 2015-09-15T15:12:33+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000717s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001614s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%师%' ) LIMIT 1   [ RunTime:0.000925s ]
+
+[ 2015-09-15T15:13:02+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000621s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001732s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%师%' ) LIMIT 1   [ RunTime:0.000866s ]
+
+[ 2015-09-15T15:13:09+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000610s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001707s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%师%' ) LIMIT 1   [ RunTime:0.000829s ]
+
+[ 2015-09-15T15:13:17+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000628s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001782s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%师%' ) LIMIT 1   [ RunTime:0.000993s ]
+
+[ 2015-09-15T15:14:48+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000617s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001583s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%师%' ) LIMIT 1   [ RunTime:0.000870s ]
+
+[ 2015-09-15T15:14:55+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000655s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001879s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%师%' ) LIMIT 1   [ RunTime:0.000931s ]
+

@@ -1,0 +1,10 @@
+[ 2015-12-07T08:41:08+08:00 ] 221.239.122.21 /WeiXin/index.php/DB/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000830s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001013s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001704s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%师%' ) LIMIT 1   [ RunTime:0.001770s ]
+

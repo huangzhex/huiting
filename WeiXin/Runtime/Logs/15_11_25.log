@@ -1,0 +1,59 @@
+[ 2015-11-25T23:07:44+08:00 ] 101.226.62.85 /WeiXin/index.php?signature=5bba209f8d3b63ab7a0e06dbf3f8dc2d9b53cd6d&timestamp=1448464064&nonce=1162469749
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006117s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></FromUserName>
+<CreateTime>1448464064</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[谁都别惹我]]></Content>
+<MsgId>6221105784711792356</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001570s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%谁都别惹我%' ) LIMIT 1   [ RunTime:0.006828s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps0krfQPTBrCH0WBcO0X-_go]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1448464064]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[谁都别惹我]]></Title><Description><![CDATA[我在街边摊套了一个布娃娃会说话，它说它是天界娃娃，要吸取人间喜怒哀乐愁，还钦命我为第一帮凶……我小心翼翼地问天界娃娃：“你到底是鬼还是神？”“我不是鬼，好像也不是神……我是天地间一股灵气。”“气？”原来我是接收了一个屁精。“你才是屁！”我吓了一跳，险些忘了它能读懂人心这码事，我故意在心里问：“你能知道我在想什么？”]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.cn/WeiXin/index.php/ShowItem?id=7209]]></Url></item></Articles></xml>
+
+[ 2015-11-25T23:07:48+08:00 ] 111.161.127.246 /WeiXin/index.php/ShowItem?id=7209
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004598s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004745s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001487s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 7209 ) LIMIT 1   [ RunTime:0.001397s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.081184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081292s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001660s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002707s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001108s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006812s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.015012s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015099s ]
+
+[ 2015-11-25T23:14:07+08:00 ] 180.153.201.214 /WeiXin/index.php/ShowItem?id=7209
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000644s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001642s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 7209 ) LIMIT 1   [ RunTime:0.001071s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008715s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000461s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000431s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000339s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002027s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000735s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000840s ]
+

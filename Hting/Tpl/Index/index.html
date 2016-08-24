@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="baidu-site-verification" content="tG9EJh5Ytl" />
+<title>慧听网</title>
+<meta name="keywords" content="有声小说,有声读物,有声小说打包下载,慧听网,听书,百度网盘,huitingweb.cn,huitingweb{$keywords}" />
+<link rel="SHORTCUT ICON" href="__PUBLIC__/Public/favicon.ico"/>
+<meta name="description" content="慧听网是全网最大的听书门户网站，提供最新最全的有声小说、有声读物打包下载服务、支持百度网盘下载服务，慧听网引领阅读新方式。上慧听网，听书好地方！" />
+<script src="http://libs.baidu.com/jquery/1.8.3/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Public/css/common.min.css">
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Public/css/index.min.css">
+<!--轮播图片-->
+<link rel="stylesheet" href="__PUBLIC__/Public/css/luara/luara.left.css"/>
+<script language="javascript" src="__PUBLIC__/Public/js/index.js"></script>
+<script language="javascript" src="__PUBLIC__/Public/js/jquery.luara.0.0.1.min.js"></script>
+<script language="javascript" src="http://apps.bdimg.com/libs/Cookies.js/0.4.0/cookies.min.js"></script>
+
+</head>
+
+<body>
+<!-- 公告-->
+<notempty name="topInfo">
+<div class="hting_public" id="Hpubilc" style="">
+	<div class="w1000">
+		<span class="on"><img src="__PUBLIC__/Public/images/ico/hting_puicelyer.gif"/></span>
+		<span class=""><b>亲爱的用户：</b>{$topInfo.name}</span>
+		<a href="javascript:void(0);" class="on " onclick="$('#Hpubilc').css('display','none');"><img src="__PUBLIC__/Public/images/ico/hting_puicelyerno.gif"/></a>
+	</div>
+</div>
+</notempty>
+<!--头部代码-->
+<div class="ht_header">
+	<div class="ht_nav">
+		<div class="ht_cont w1000 clearfix">
+			<div class="logo_link">
+				<span></span>
+				<a href="http://www.huitingweb.cn">慧听网</a>
+			</div>
+			<div class="top_search">
+				<form action="{:U('desc')}" method="post" id="searchForm">
+					<input type="text" name="keyword" class="search_txt"  />
+					<a href="javascript:void(0)" onclick="$('#searchForm').submit();" class="btn">搜索</a>
+				</form>
+			</div>
+			<div class="top_user">
+				<div class="no_login" >
+					<span class="login_a">
+						<a href="javascript:void(0);" onclick="">登录</a>
+					</span>
+					<a href="register.html" >注册</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ht_menu">
+		<div class="ht_list w1000 clearfix">
+			<div class="more_list_box">
+			
+			</div>
+			<div class="nav_list">
+				<volist name="menu" id="m">
+					<a  href="{$m.url}" title="{$m.name}" class="<if condition="$m.name eq $menuSelect">active</if>">{$m.name}</a>
+				</volist>
+				
+			</div>
+			<div class="ht_menu_right" >
+				<volist name="menu_right" id="m">
+					<a  href="{$m.url}" title="{$m.name}" class="right_a">{$m.name}</a>
+					<em class="line"></em>
+				</volist>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="clear20"></div>
+<!-- 内容代码-->
+<div class="main">
+	<div class="w1000">
+		<!--轮播-->
+		<div class="banner l">
+			<ul>
+				<volist name="img" id="img">
+					<li><img src="{$img.url}" alt="{$img.name}"/></li>
+				</volist>
+			</ul>
+			<ol>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ol>
+		</div>
+		<!--通知公告-->
+		<div class="ht_news clearfix r">
+			<div class="news_tabdiv">
+				<ul class="news_tab">
+					<li class="newtitle1 news_active"><a href="{:U('newDay')}">最近更新</a></li>
+					<li class="newtitle2"><a href="{:U('msgList')}">通知公告</a></li>
+				</ul>
+			</div>
+			<div class="news_box clearfx">
+				<div class="news_plate newone" style="display:block">
+					<ul>
+						<volist name="curUpdates" id="item">
+						<li>
+							<a href="{:U('page',array('id'=>$item['id']))}" >{$item.title}</a>
+							<span>{$item.createtime|strtotime|date="y-m-d",###}</span>
+						</li>
+						</volist>
+					</ul>
+				</div>
+				<div class="news_plate newtwo" style="display:none">
+					<ul>
+						<volist name="msg" id="msg">
+							<li>
+								<a href="{:U('msg',array('id'=>$msg['id']))}" >{$msg.title}</a>
+								<span>{$msg.createdate}</span>
+							</li>
+						</volist>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="clear20"></div>
+		<!--图文列表--> 
+		<div class="cont">
+			<volist name="infos" id="info">
+			<!--图文信息-->
+			<div class="cont_l">
+				<!--标题-->
+				<div class="floor">
+					<a href="{:U('desc',array('menu'=>$info['id']))}" class="c_l_h" title="{$info.name}" >{$info.name}</a>
+					<volist name="info['lables']" id="infotwo">
+						<a href="{:U('desc',array('id'=>$infotwo['id']))}" class="" title="{$infotwo.name}" >{$infotwo.name}</a>
+					</volist>
+				</div>
+				<!-- 列表 -->
+				<div class="channel_box" style="display:block">
+					<div class="channel_tj">
+						<volist name="info['items']" id="item" offset="0" length="1">
+							<div class="img">
+								<a href="{:U('page',array('id'=>$item['id']))}" >
+									<img src="{$item.img_url}" width="240" height="240" alt="{$item.title}" id="{$item.id}" onmouseout="" onmouseover="">
+								</a>
+								<!--介绍-->
+								<p class="img_p" style="display:none">
+									<em bid="{$item.id}"></em>
+								</p>
+							</div>
+							<h3>
+								<a href="{:U('page',array('id'=>$item['id']))}" >{$item.title}</a>
+							</h3>
+							<p>{$item.context}</p>
+						</volist>
+					</div>
+					<div class="channel_list">
+						<ul>
+							<volist name="info['items']" id="item" offset="1" length="6">
+								<li>
+									<div class="img">
+										<a href="{:U('page',array('id'=>$item['id']))}" >
+											<img src="{$item.img_url}" width="110" height="110" alt="{$item.title}" id="18735" onmouseout="" onmouseover=""/>
+										</a>
+										<p class="img_p"><em bid="{$item.id}"></em></p>
+									</div>
+									<p><a href="{:U('page',array('id'=>$item['id']))}" >{$item.title}</a></p>
+								</li>
+							</volist>
+						</ul>
+					</div>
+					<div class="clear"></div>
+					<!--热门标签-->
+					<div class="hot_label">
+						热门标签：
+						<volist name="info['lables']" id="lable">
+							<a href="{:U('desc',array('id'=>$lable['id']))}"  title="{$lable.name}">{$lable.name}</a>
+						</volist>
+					</div>
+				</div>
+			</div>
+			<!--人气排行榜-->
+			<div class="cont_r">
+				<div class="tb_t">
+					<h2>{$info.name}人气排行</h2>
+				</div>
+				<div class="rank_list">
+					<ul>
+						<volist name="info['orderItems']" id="orderItem" key="k">
+							<eq name="k" value="1">
+							<li class="first">
+							</eq>
+							<neq name="k" value="1">
+							<li>
+							</neq>
+								<em>{$k}</em>
+								<a href="{:U('page',array('id'=>$orderItem['id']))}"  title="{$orderItem.title}">{$orderItem.title}</a>
+							</li>
+						</volist>
+					</ul>
+				</div>
+			</div>
+			</volist>
+		</div>
+	</div>
+</div>
+<script type = "text/javascript">
+	index();
+</script>
+<div class="clear"></div>
+

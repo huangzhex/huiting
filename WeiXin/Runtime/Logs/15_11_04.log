@@ -1,0 +1,113 @@
+[ 2015-11-04T23:09:54+08:00 ] 101.226.62.85 /WeiXin/index.php?signature=75d91d4c91c2f60ed3d884710672550f3cae2b16&timestamp=1446649793&nonce=1137613619
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015845s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps671hfbQesoMVmVeIOFK89c]]></FromUserName>
+<CreateTime>1446649793</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[？]]></Content>
+<MsgId>6213313550100420253</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001698s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%？%' ) LIMIT 1   [ RunTime:0.013022s ]
+DEBUG: 可输入作品进行查询！如：三国演义
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps671hfbQesoMVmVeIOFK89c]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[可输入作品进行查询！如：三国演义]]></Content><CreateTime><![CDATA[1446649794]]></CreateTime></xml>
+
+[ 2015-11-04T23:10:14+08:00 ] 101.226.62.85 /WeiXin/index.php?signature=118050fc8e2d5e456fd10c60def759ea199c3658&timestamp=1446649814&nonce=63848478
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+DEBUG: <xml><ToUserName><![CDATA[gh_44a1c121ef70]]></ToUserName>
+<FromUserName><![CDATA[omK9Ps671hfbQesoMVmVeIOFK89c]]></FromUserName>
+<CreateTime>1446649814</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[三国演义]]></Content>
+<MsgId>6213313640294733473</MsgId>
+</xml>
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001487s ]
+SQL: SELECT * FROM `hting_item` WHERE ( title like '%三国演义%' ) LIMIT 1   [ RunTime:0.003257s ]
+DEBUG: <xml><ToUserName><![CDATA[omK9Ps671hfbQesoMVmVeIOFK89c]]></ToUserName><FromUserName><![CDATA[gh_44a1c121ef70]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1446649814]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[三国演义（38集FLASH动画故事）]]></Title><Description><![CDATA[]]></Description><PicUrl><![CDATA[]]></PicUrl><Url><![CDATA[http://www.huitingweb.cn/WeiXin/index.php/ShowItem?id=1997]]></Url></item></Articles></xml>
+
+[ 2015-11-04T23:10:15+08:00 ] 112.65.193.13 /WeiXin/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
+[ 2015-11-04T23:10:20+08:00 ] 117.15.0.186 /WeiXin/index.php/ShowItem?id=1997
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.020606s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020757s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001605s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 1997 ) LIMIT 1   [ RunTime:0.000689s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.083962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084077s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001638s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014742s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001931s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019580s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.019251s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019330s ]
+
+[ 2015-11-04T23:10:20+08:00 ] 117.15.0.186 /WeiXin/index.php/ShowItem?id=1997
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.021787s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021939s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001279s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 1997 ) LIMIT 1   [ RunTime:0.000753s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.099878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099978s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001189s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000341s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001389s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005125s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.017725s ]
+INFO: [ view_end ] --END-- [ RunTime:0.017792s ]
+
+[ 2015-11-04T23:10:20+08:00 ] 101.226.33.221 /WeiXin/index.php/ShowItem?id=1997
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000634s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+SQL: SHOW COLUMNS FROM `hting_item` [ RunTime:0.001581s ]
+SQL: SELECT * FROM `hting_item` WHERE ( `id` = 1997 ) LIMIT 1   [ RunTime:0.000944s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.084352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084474s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002029s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014802s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001796s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020177s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.018767s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018838s ]
+
+[ 2015-11-04T23:23:41+08:00 ] 101.226.93.234 /WeiXin/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+

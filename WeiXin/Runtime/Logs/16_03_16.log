@@ -1,0 +1,17 @@
+[ 2016-03-16T11:29:58+08:00 ] 121.42.0.35 /WeiXin/index.php/DB/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000630s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+ERR: 非法操作:index.php
+
+[ 2016-03-16T11:30:03+08:00 ] 121.42.0.33 /WeiXin/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] Undefined index: signature /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 94 行.
+NOTIC: [8] Undefined index: timestamp /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 95 行.
+NOTIC: [8] Undefined index: nonce /data/home/qxu1147150176/htdocs/WeiXin/Lib/Action/IndexAction.class.php 第 96 行.
+
